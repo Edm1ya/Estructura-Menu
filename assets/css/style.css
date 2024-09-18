@@ -128,7 +128,7 @@ a {
 }
 
 .image{
-    background-image: url('assets/images/bank.jpeg');
+    background-image: url('/assets/images/bank.jpeg');
     background-size: cover;
     height: 700px; 
 }
